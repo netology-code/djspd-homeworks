@@ -1,0 +1,6 @@
+venv/
+.idea/
+.vscode/
+media/
+__pycache__/
+
