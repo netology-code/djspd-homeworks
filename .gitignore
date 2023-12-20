@@ -3,4 +3,3 @@ venv/
 .vscode/
 media/
 __pycache__/
-env/

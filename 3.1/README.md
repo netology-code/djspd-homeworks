@@ -1,7 +1,7 @@
-## Знакомство с API на примере Django REST framework
+## Знакомство с Django ORM
 Необходимо выполнить и предоставить на проверку задачу:
 
-[Автосалон.](./orm_shop)
+[Товары и отзывы.](./products)
 
 Работа должна соответствовать принятому [стилю оформления кода.](https://github.com/netology-code/codestyle/tree/master/python)
 
