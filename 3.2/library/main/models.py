@@ -1,5 +1,6 @@
 from django.db import models
 
+
 class Book(models.Model):
     author = models.CharField(max_length=50, verbose_name='Автор')
     title = models.CharField(max_length=100, verbose_name='Название произведения')
