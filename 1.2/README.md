@@ -15,7 +15,7 @@
 
 [Рецепты](https://github.com/netology-code/dj-homeworks/tree/video/1.2-requests-templates/recipes).
 
-### Дополнительное задание (* необязательное):
+### Дополнительное задание (* необязательное)
 
 [Пагинация](https://github.com/netology-code/dj-homeworks/tree/video/1.2-requests-templates/pagination).
 
