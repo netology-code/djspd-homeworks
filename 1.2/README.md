@@ -9,13 +9,13 @@
 
 ------
 
-### Задание
+### Задание (обязательное)
 
 Выполните и передайте в личном кабинете на проверку задачу:
 
 [Рецепты](https://github.com/netology-code/dj-homeworks/tree/video/1.2-requests-templates/recipes).
 
-## Дополнительные задания (* необязательное):
+### Дополнительное задание (* необязательное):
 
 [Пагинация](https://github.com/netology-code/dj-homeworks/tree/video/1.2-requests-templates/pagination).
 
