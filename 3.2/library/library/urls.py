@@ -1,5 +1,5 @@
 """
-URL configuration for news project.
+URL configuration for library project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.2/topics/http/urls/
@@ -32,5 +32,5 @@ urlpatterns = [
     path('api/v1/books/<int:pk>/', BookDetailsView.as_view()),
     path('api/v1/books/update/<int:pk>/', BookUpdateView.as_view()),
     path('api/v1/books/delete/<int:pk>/', BookDeleteView.as_view()),
-    include('api/v1/', router.urls)
+    path("api/v1/", include(router.urls))
 ]
